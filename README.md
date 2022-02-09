@@ -1,4 +1,4 @@
-# Spring_ShoppingMall_Project
+# Spring_Online_ShoppingMall_Project
 ## 온라인 의류 쇼핑몰 만들기 프로젝트
 
 더조은컴퓨터 학원의 K-디지털 수업 3조 학생들의 프로젝트이며, 주제는 의류 온라인 쇼핑몰의 제작입니다.
